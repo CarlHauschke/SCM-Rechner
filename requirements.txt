@@ -1,7 +1,7 @@
 click==7.1.2
 cloudpickle==1.6.0
 cycler==0.10.0
-Flask==1.1.2
+Flask==2.3.2
 future==0.18.2
 gym==0.18.0
 itsdangerous==1.1.0
